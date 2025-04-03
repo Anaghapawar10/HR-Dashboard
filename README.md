@@ -23,29 +23,28 @@ This **HR Attrition Dashboard** provides insights into **employee turnover trend
 ✅ **Trend Line Chart** - Attrition over years at the company.  
 ✅ **Interactive Tables** - Job satisfaction levels across different roles.  
 ✅ **Filters & Slicers** - Allows deep dive into attrition factors.  
+✅ **Updated Screenshots** - Latest visuals for better clarity.  
+
+🔗 **[View Visuals & Screenshots](https://github.com/Anaghapawar10/HR-Dashboard/tree/main/images)**  
 
 ---
 
 ## 📂 Project Structure  
 ```
 HR-Dashboard/
-│── HR DASH BBBOARD.pbix  # Power BI dashboard file
+│── HR DASHBOARD.pbix  # Power BI dashboard file
 │── README.md             # Project documentation
-│── images/               # Dashboard screenshots
+│── images/               # Updated dashboard screenshots
 │── LICENSE               # License file (optional)
 ```
 
 ---
 
-## 📸 Visual Previews  
-![Dashboard Preview](images/Screenshot-52.png)  
-
----
-
 ## 📥 How to Use?  
-1️⃣ Download `HR DASH BBBOARD.pbix` from GitHub.  
+1️⃣ Download `HR DASHBOARD.pbix` from GitHub.  
 2️⃣ Open it in **Power BI Desktop**.  
 3️⃣ Explore the visual insights & apply **filters** for deeper analysis.  
+4️⃣ Refer to the `images` folder for updated screenshots.  
 
 ---
 
