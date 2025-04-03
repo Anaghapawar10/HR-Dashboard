@@ -47,7 +47,7 @@ This **HR Attrition Dashboard** provides deep insights into **employee turnover 
 ---
 
 ## 📎 Repository Link  
-🔗 **[GitHub Repository](your_github_repo_link_here)**  
+🔗 **[GitHub Repository](https://github.com/Anaghapawar10/HR-Dashboard/tree/main)**  
 
 ---
 
